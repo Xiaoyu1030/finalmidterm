@@ -14,12 +14,12 @@
     font-size: 18px;
 
 }
-.bodypart1{
+.part1{
   border: 1px dotted black;
   font-family: cursive;
   color:maroon;
 }
-.bodypart2{
+.part2{
   border-bottom: 1px solid black;
 }
 
